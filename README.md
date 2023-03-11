@@ -1,4 +1,4 @@
-# ![Kiria icon](https://i.imgur.com/NLUkRJ6.png) Kiria (키리아)
+# ![Kiria icon](https://i.imgur.com/89bZKzp.png) Kiria (키리아)
 
 ![Kiria banner](https://i.imgur.com/XgYOuCd.png)
 <!-- ![Kiria Banner](https://i.imgur.com/DPhAsb3.png) -->
