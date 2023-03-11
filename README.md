@@ -1,7 +1,7 @@
 
-# Kiria (키리아)
+![Kiria icon](https://i.imgur.com/OAOkoS5.png) # Kiria (키리아)
 
-![Kiria Banner](https://i.imgur.com/XgYOuCd.png)
+![Kiria banner](https://i.imgur.com/XgYOuCd.png)
 <!-- ![Kiria Banner](https://i.imgur.com/DPhAsb3.png) -->
 <!-- ![Kiria Banner](https://i.imgur.com/9gv28xK.png) -->
 
@@ -11,7 +11,7 @@ An enthusiastic full stack developer.
 ### Profile
 
 <!-- ![Kiria Logo](https://i.imgur.com/zMJt83Q.png) -->
-![Kiria Logo](https://i.imgur.com/ECgtYqh.png)
+![Kiria logo](https://i.imgur.com/ECgtYqh.png)
 
 Kiria ShinHwa [@kiriashinhwa](https://twitter.com/kirishinhwa)
 
