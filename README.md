@@ -1,7 +1,7 @@
 
 # Kiria (키리아)
 
-![Kiria Banner](https://i.imgur.com/NyrRniG.png)
+![Kiria Banner](https://i.imgur.com/XgYOuCd.png)
 <!-- ![Kiria Banner](https://i.imgur.com/DPhAsb3.png) -->
 <!-- ![Kiria Banner](https://i.imgur.com/9gv28xK.png) -->
 
@@ -18,7 +18,7 @@ An enthusiastic full stack developer.
 
 ### Web applications
 
-![App Screenshot](https://i.imgur.com/vl5dq1P.png)
+![App Screenshot](https://i.imgur.com/2dnUd3y.png)
 <!-- ![App Screenshot](https://i.imgur.com/kI9oKDN.png) -->
 
 
