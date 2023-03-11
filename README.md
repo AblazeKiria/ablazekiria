@@ -1,14 +1,14 @@
 
 # Kiria (키리아)
 
-![Kiria Banner](https://i.imgur.com/Wbx7n7Z.png)
+![Kiria Banner](https://i.imgur.com/9gv28xK.png)
 
 An enthusiastic full stack developer.
 
 
 ### Profile
 
-![Kiria Logo](https://i.imgur.com/nBos1sN.png)
+![Kiria Logo](https://i.imgur.com/ECgtYqh.png)
 
 **Kiria** [@kiriashinhwa](https://www.github.com/kiriashinhwa)
 
