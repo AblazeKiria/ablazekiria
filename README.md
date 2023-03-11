@@ -12,7 +12,7 @@ An enthusiastic full stack developer.
 <!-- ![Kiria Logo](https://i.imgur.com/zMJt83Q.png) -->
 ![Kiria logo](https://i.imgur.com/ECgtYqh.png)
 
-Kiria [@kiriashinhwa](https://twitter.com/kirishinhwa)
+Kiria [@kiriashinhwa](https://twitter.com/kiriashinhwa)
 
 
 ### Web applications
