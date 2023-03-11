@@ -7,6 +7,14 @@
 An enthusiastic full stack developer.
 
 
+
+### Web applications
+
+![App Screenshot](https://i.imgur.com/2dnUd3y.png)
+<!-- ![App Screenshot](https://i.imgur.com/kI9oKDN.png) -->
+
+
+
 ### Profile
 
 <!-- ![Kiria Logo](https://i.imgur.com/zMJt83Q.png) -->
@@ -14,11 +22,6 @@ An enthusiastic full stack developer.
 
 Kiria [@kiriashinhwa](https://twitter.com/kiriashinhwa)
 
-
-### Web applications
-
-![App Screenshot](https://i.imgur.com/2dnUd3y.png)
-<!-- ![App Screenshot](https://i.imgur.com/kI9oKDN.png) -->
 
 
 <!-- ### Links
