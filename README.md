@@ -1,7 +1,8 @@
 
 # Kiria (키리아)
 
-![Kiria Banner](https://i.imgur.com/DPhAsb3.png)
+![Kiria Banner](https://i.imgur.com/NyrRniG.png)
+<!-- ![Kiria Banner](https://i.imgur.com/DPhAsb3.png) -->
 <!-- ![Kiria Banner](https://i.imgur.com/9gv28xK.png) -->
 
 An enthusiastic full stack developer.
