@@ -11,7 +11,7 @@ An enthusiastic full stack developer.
 ### Web applications
 
 ![App Screenshot](https://i.imgur.com/r0Mlpey.png)
-![App Screenshot](https://i.imgur.com/ICjWAKL.png)
+![App Screenshot](https://i.imgur.com/YUK0eGC.png)
 <!-- ![App Screenshot](https://i.imgur.com/2dnUd3y.png) -->
 <!-- ![App Screenshot](https://i.imgur.com/kI9oKDN.png) -->
 
