@@ -1,4 +1,4 @@
-# ![Kiria icon](https://i.imgur.com/JRSRj8v.png) Kiria ShinHwa (신화 키리아)
+# ![Kiria icon](https://i.imgur.com/JRSRj8v.png) Ablaze Kiria (アブラジキリア)
 
 ![Kiria banner](https://i.imgur.com/XgYOuCd.png)
 <!-- ![Kiria Banner](https://i.imgur.com/DPhAsb3.png) -->
@@ -22,7 +22,7 @@ An enthusiastic full stack developer.
 <!-- ![Kiria Logo](https://i.imgur.com/zMJt83Q.png) -->
 ![Kiria logo](https://i.imgur.com/ECgtYqh.png)
 
-Kiria [@kiriashinhwa](https://twitter.com/kiriashinhwa)
+Kiria [@AblazeKiria](https://twitter.com/AblazeKiria)
 
 
 
