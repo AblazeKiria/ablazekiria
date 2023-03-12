@@ -22,7 +22,7 @@ An enthusiastic full stack developer.
 <!-- ![Kiria Logo](https://i.imgur.com/zMJt83Q.png) -->
 ![Kiria logo](https://i.imgur.com/ECgtYqh.png)
 
-Kiria [@AblazeKiria](https://twitter.com/AblazeKiria)
+Kiria [@ablazekiria](https://twitter.com/ablazekiria)
 
 
 
